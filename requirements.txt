@@ -1,0 +1,4 @@
+BeautifulSoup
+requests
+emoji
+aiogram
